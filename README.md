@@ -16,9 +16,9 @@ Launches the test runner in the interactive watch mode.
 - input was used to enter the number.
   
 2.TODO list of adding items.
-  the main function is to add the items using the memo hook and it renders when a new todo was added.
-  contains handkeclick onclock function to add the items.
-  settodo state is used to update the items of todo list.
+- the main function is to add the items using the memo hook and it renders when a new todo was added.
+- contains handkeclick onclock function to add the items.
+- settodo state is used to update the items of todo list.
 
 3.Todo list of completed and incompleted items.
 - Usememo was used to create the functionality to diaplay the two todo lists on completion and pending of works.
