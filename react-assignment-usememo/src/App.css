@@ -1,0 +1,29 @@
+p{
+  font-size:5px;
+}
+.itemslist{
+  background-color: aqua;
+  font-size: small;
+  size-adjust: 70%;
+}
+
+.typebutton{
+  font-size: 10px;
+  margin-left: 10%;
+  color: rgb(3, 7, 7);
+}
+.completeditem{
+  font-size: 70%;
+  margin-left: 7%;
+  margin-right: 60%;
+  background-color: aqua;
+}
+.incompleteditem{
+  font-size: 70%;
+  margin-left: 7%;
+  margin-right: 60%;
+  background-color: rgb(236, 249, 139);
+}
+.maindiv{
+  background-color: rgb(108, 108, 151);
+}
