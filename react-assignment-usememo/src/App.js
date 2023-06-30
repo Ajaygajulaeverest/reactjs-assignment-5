@@ -30,7 +30,6 @@ const Todo = React.memo(({ list }) => {
     </ul>
   );
 });
-
 const TodoItem = React.memo(({ item }) => {
   return <li>{item.additem}</li>;
 });
