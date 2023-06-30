@@ -1,0 +1,28 @@
+button {
+  margin-top: 2%;
+  margin-left: 25%;
+  display: block;
+  color: rgb(33, 45, 45);
+  background-color: aqua;
+}
+input {
+  margin-left:25%;
+  font: 110%;
+  width: 20px;
+  background-color: #f3bb93;
+
+}
+.fib{
+  margin-top: 17%;
+  margin-left: 10%;
+  font-size: 120%;
+}
+.fibanocinumber{
+  background: #deee9a;
+  margin-left: 20%;
+  margin-right: 50%;
+  margin-top: 10%;
+  padding-left: 3%;
+  border-color: black;
+  border-width: 10%;
+}
