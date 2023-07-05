@@ -39,19 +39,19 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # Introduction
 
-- Project consists a code to fetch the todo data.
+- Project consists a code to fetch the todo data and display the completed and incompleted Todo tasks.
 
 # Content
 
-- Fetch method is used to fetch the dtat from the url.
+- Fetch method is used to fetch the data from the url.
 - Function Completedlist returns the list of completed todo tasks.
 - Function Incompletedlists returns the list of incompleted todo tasks.
 - While filtering the data usememo is used to decrease the rerendering for every item.
-- Buttons function is used to represent the Completed and incompleted buttons and used to display the comlpeted and incompleted data.
+- Buttons function is used to represent the Completed and incompleted buttons and functionality of buttons is to display the comlpeted and incompleted data.
 
 # usees
 
-- usememo is used to stop the rerendering everytime and render only when the dependencies changes.
+- usememo is used to stop the re-rendering everytime and render only when the dependencies changes.
 
 # contact
 

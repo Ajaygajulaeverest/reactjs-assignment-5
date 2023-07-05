@@ -45,7 +45,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # functionalities
 
-- memo is used to skip the unnessasary rerendering
+- memo is used to skip the unnessasary rerendering.
+- Add Todo button is used to add the tasks.
 
 # contact
 

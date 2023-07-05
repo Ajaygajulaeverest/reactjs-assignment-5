@@ -41,13 +41,13 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # Introduction
 
-- This project is used to dosplay the fibannoci number of the given input number.
+- This project is used to display the fibanocci number of the given input number.
 
 # Content
 
-- Usememo is used to rmember the data of the previous operation.
+- Usememo is used to remember the data of the previous operation.
 - with using this operation the fibanocci number is generated.
-- function fibbanocci returns the fibanocci number of the number.
+- function fibanocci() returns the fibanocci number of the number.
 - method fibanocci is used to store the data with the help of usememo hook.
 
 # contact
